@@ -1,0 +1,16 @@
+.navbar-dark .navbar-brand {
+    color: #fff;
+    padding: 0 50px;
+    font-size: 30px;
+    color: tomato;
+}
+.nav-link {
+    padding: 15px 25px !important;
+    margin: 0 10px;
+    transition: all 0.3s linear;
+}
+.nav-link:hover{
+    background-color:tomato;
+    color: whitesmoke !important;
+    border-radius: 5px;
+}
